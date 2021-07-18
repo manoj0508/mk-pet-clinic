@@ -1,4 +1,4 @@
 package com.springlearn.mkpetclinic.model;
 
-public class Owner extends Person {
+public class Vet extends Person{
 }
